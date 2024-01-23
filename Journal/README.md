@@ -12,4 +12,7 @@ Presenté un [boceto](https://github.com/hugoescalpelo/Exp4nd1ng-P3rs0n4l/blob/m
 Decidimos realizar la máscara con [5 pantallas](https://github.com/hugoescalpelo/Exp4nd1ng-P3rs0n4l/blob/main/Imagenes/5pantallas.jpg)
 
 ---
+He creado este repositorio.
+
+---
 He generado un presupuesto, fue aprobado por Monky.
