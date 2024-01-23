@@ -16,3 +16,10 @@ Para acompañar esta pieza se generará una máscara de pantallas, la cual está
 
 A continuación se muestran algunos bocetos alrededor de este concepto.
 
+![](https://github.com/hugoescalpelo/Exp4nd1ng-P3rs0n4l/blob/main/Imagenes/5pantallas.jpg?raw=true)
+
+![](https://github.com/hugoescalpelo/Exp4nd1ng-P3rs0n4l/blob/main/Imagenes/Boceto.png?raw=true)
+
+## Notas
+
+Esta es una pieza en progreso y se irá modificando la forma conforme se desarrolle.
