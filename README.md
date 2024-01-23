@@ -23,3 +23,7 @@ A continuación se muestran algunos bocetos alrededor de este concepto.
 ## Notas
 
 Esta es una pieza en progreso y se irá modificando la forma conforme se desarrolle.
+
+## Diagramas
+
+Consulta la sección completa de [Diagramas](https://github.com/hugoescalpelo/Exp4nd1ng-P3rs0n4l/blob/main/Diagrama/README.md).
