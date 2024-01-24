@@ -16,3 +16,12 @@ He creado este repositorio.
 
 ---
 He generado un presupuesto, fue aprobado por Monky.
+
+---
+He recogido el material, estoy en proceso de investigar el manejo de las pantallas
+
+## 2023-01-24
+
+Logré cargar una imagen a las pantallas. Hice una prueba y se puede ver en este [TikTok](https://www.tiktok.com/@hugoescalpelo/video/7327761072075607302?lang=es).
+
+Generaré la documentación de eso.
