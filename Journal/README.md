@@ -38,6 +38,8 @@ Ya tengo en mi escritorio las 5 pantallas que necesito. Vía Monky, ella fué a 
 Mientras tanto, yo me pongo a desarrollar los imprimibles. Usare un modelo de [grabcad.com/library](grabcad.com/library) para el modelado.
 
 ---
-He generado las pieazas imprimibles de la máscara
+He generado las pieazas imprimibles de la máscara.
 
----
+## 2024-01-26
+
+Imprmí ya la base de las pantallas. Se queda imprimiendo toda la noche el resto de las piezas.
