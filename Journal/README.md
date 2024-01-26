@@ -25,3 +25,16 @@ He recogido el material, estoy en proceso de investigar el manejo de las pantall
 Logré cargar una imagen a las pantallas. Hice una prueba y se puede ver en este [TikTok](https://www.tiktok.com/@hugoescalpelo/video/7327761072075607302?lang=es).
 
 Generaré la documentación de eso.
+
+No llegaron las pantallas.
+
+## 2021-01-25
+
+Ya pasó el pago de las pantallas.
+
+---
+Ya tengo en mi escritorio las 5 pantallas que necesito. Vía Monky, ella fué a recoger una de ellas. Dijo que pronto me manda las imágenes para hacer pruebas.
+
+Mientras tanto, yo me pongo a desarrollar los imprimibles. Usare un modelo de [grabcad.com/library](grabcad.com/library) para el modelado.
+
+---
