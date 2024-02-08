@@ -76,3 +76,5 @@ El Live Act sucedió a las 18h.
 ## 2024-02-07
 
 Actualicé el repositorio y el Journal.
+
+Quedo en espera de material de registro para vincular en este repositorio. En el futuro haré una nota en [hugoescalpelo.com](hugoescalpelo.com)
