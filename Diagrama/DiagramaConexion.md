@@ -8,15 +8,19 @@ graph TD;
     USBA --> |USB| B1[Batería 1]
     P1 --> |GND| USBA;
     
-    P2[Pantalla 2] --> |I2C| MC2[Micro Controlador 2]
-    MC2 --> |USB| B1[Batería 1];
+    P2[Pantalla 2] --> |Vcc| USBA[Adaptador USB]
+    USBA --> |USB| B1[Batería 1]
+    P2 --> |GND| USBA;
 
-    P3[Pantalla 3] --> |I2C| MC3[Micro Controlador 3]
-    MC3 --> |USB| B2[Batería 2];
+    P3[Pantalla 3] --> |Vcc| USBA[Adaptador USB]
+    USBA --> |USB| B1[Batería 1]
+    P3 --> |GND| USBA;
 
-    P4[Pantalla 4] --> |I2C| MC4[Micro Controlador 4]
-    MC4 --> |USB| B2[Batería 2];
+    P4[Pantalla 4] --> |Vcc| USBA[Adaptador USB]
+    USBA --> |USB| B1[Batería 1]
+    P4 --> |GND| USBA;
 
-    P5[Pantalla 5] --> |I2C| MC5[Micro Controlador 5]
-    MC5 --> |USB| B3[Batería 3];
+    P5[Pantalla 5] --> |Vcc| USBA[Adaptador USB]
+    USBA --> |USB| B1[Batería 1]
+    P5 --> |GND| USBA;
 ```
