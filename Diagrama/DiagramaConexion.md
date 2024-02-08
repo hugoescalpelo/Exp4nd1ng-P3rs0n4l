@@ -4,8 +4,9 @@ Este diagrama de conexiónes está hecho en lenguaje Mermaid para MarkDown.
 
 ```mermaid
 graph TD;
-    P1[Pantalla 1] --> |I2C| MC1[Micro Controlador 1]
-    MC1 --> |USB| B1[Batería 1];
+    P1[Pantalla 1] --> |Vcc| USBA[Adaptador USB]
+    USBA --> |USB| B1[Batería 1]
+    P1 --> |GND| USBA;
     
     P2[Pantalla 2] --> |I2C| MC2[Micro Controlador 2]
     MC2 --> |USB| B1[Batería 1];
