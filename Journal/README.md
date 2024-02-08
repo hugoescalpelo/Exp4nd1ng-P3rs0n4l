@@ -43,3 +43,8 @@ He generado las pieazas imprimibles de la máscara.
 ## 2024-01-26
 
 Imprmí ya la base de las pantallas. Se queda imprimiendo toda la noche el resto de las piezas.
+
+---
+Ya quedaron las piezas, se ven bien.
+
+---
