@@ -20,3 +20,5 @@ graph TD;
     P5[Pantalla 5] --> |Vcc| USBA[Adaptador USB]
     P5 --> |GND| USBA;
 ```
+
+Este diagrama significa que todas las terminales de alimentación `Vcc` y `GND` se conectaron entre ellas en el mismo adaptador USB, el cual se conecta a la batería.
