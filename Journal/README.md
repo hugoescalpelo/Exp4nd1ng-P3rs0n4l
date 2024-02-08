@@ -48,3 +48,31 @@ Imprmí ya la base de las pantallas. Se queda imprimiendo toda la noche el resto
 Ya quedaron las piezas, se ven bien.
 
 ---
+
+
+
+## 2024-01-27
+### Post Mortem
+Fué un día muy apurado! Este fue el día del Live Act. 
+
+Cerca del medio día fui a casa de Monky a probar que el aro de la cabeza tuviera las dimensiones correctas. Aún tenía oportunidad de terminar de imprimir otro.
+
+Estuve haciendo las pruebas de las imagenes. Descubrí que solo caben 24 imágenes de 320x240 en cada pantalla. Aúnque las redimensione con el [Resizer](https://github.com/hugoescalpelo/python-utilities/tree/main/Resizer) que hice o las comprima con [MassImageCompressor](https://sourceforge.net/projects/icompress/), Nextion Editor las importa en el formato de la pantalla y cada imagen pesa alrededor de 150 KB.
+
+Se tuvieron que truncar las imágenes para que cada pantalla tenga 24 de ellas. Para esta etapa dieron las 14h.
+
+Luego estuve realizando el programa para seguir las instrucciones de secuencias y los tiempos entre imagenes. El resultado se puede ver en la documentación del directorio [Nextion](https://github.com/hugoescalpelo/Exp4nd1ng-P3rs0n4l/tree/main/Nextion#secuencia-personalizada).
+
+Es importante que luego de configurar todo como se explica en ese documento, se importe el archivo TFT a la tarjeta de memoria como lo indican las instrucciones de la [secuencia simple](https://github.com/hugoescalpelo/Exp4nd1ng-P3rs0n4l/tree/main/Nextion#configuraci%C3%B3n-de-imagenes-en-secuencia).
+
+Los archivos TFT no están en este repositorio ya que incluyen actualizaciones de firmware de cada pantalla y el formato del programa en curso, por lo que es conveniente sacarlos del programa. Ya habían dado las 15h.
+
+Armé la estructura y soldé las terminales de energía. Terminé cerca de las 17h.
+
+Llevé la máscara a Faro Cosmos y expliqué su uso a Monky. Terminamos cerca de las 17:30h.
+
+El Live Act sucedió a las 18h.
+
+## 2024-02-07
+
+Actualicé el repositorio y el Journal.
