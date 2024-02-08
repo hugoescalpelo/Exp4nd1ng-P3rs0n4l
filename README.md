@@ -1,6 +1,10 @@
 # Exp4nd1ng-P3rs0n4l
 Este repositorio contiene codigo y documentos relacionados a Exp4nd1ng P3rs0n4l, una pieza de Monky Upa.
 
+![](https://github.com/hugoescalpelo/Exp4nd1ng-P3rs0n4l/blob/main/Imagenes/Mascara1.PNG?raw=true)
+
+![](https://github.com/hugoescalpelo/Exp4nd1ng-P3rs0n4l/blob/main/Imagenes/Mascara2.PNG?raw=true)
+
 ## Texto de la artista
 
 > Live Act Audiovisual que explora el tema de la libertad morfológica, la capacidad
